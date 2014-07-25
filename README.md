@@ -1,4 +1,5 @@
 GREEN-IT
 ========
 
-first blog on git
+first blog on git 
+enjoy your ride
